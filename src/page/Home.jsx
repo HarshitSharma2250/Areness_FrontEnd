@@ -130,25 +130,25 @@ export const Home = () => {
             <Image
               boxSize="36.28px"
               borderRadius="8px"
-              src="src/assets/img1.png"
+              src="https://s3-alpha-sig.figma.com/img/322f/0fe2/c52b5ee8ff2972c81a56bce0701e8ebe?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NvD0k7fPyeSsZBB9gfT1-AEluByWBWy-5w3WvdtUD8DVRr4qhWE7RBsiUcaE2cTGOPDRmXuFMpEhL8DolRUbmVnxdUpKH7A8s-6wDwLHOi3gponNB1jtL8qEteMBOR~WU110lgwn~1eUi6iGpBKpf~S7MFd40gJRt6S8z-4Bw1226akQRBJv9muY~Z2GctbkH0DRODrQlofj65amV2MMq9zoe4mzjVSsyuZl4YdL6GBsu9pwciWT-N06BhUJEjLWX2yQOaHKjVk0oZ2PVcVsgqK9B8yB6chf4Vjp-4mRSyNHGTyYzORpJ-yOoYGfybDACIES5QJ1-eVCt39PkEZBXw__"
               alt=""
             />
             <Image
               boxSize="36.28px"
               borderRadius="8px"
-              src="src/assets/img1.png"
+              src="https://s3-alpha-sig.figma.com/img/ffae/8c8a/ba595a703cdeb2d613d441aa5ec7fbe3?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JcEV0V-FKqxwj6A65g8QDd3qt2WIV6lA~VG8kJjueidcZ4LPnj3jYq84yqCcMxYZfI8GrHplsFAN0ZuC7snLTlIQrd6mm5R8zbpV8YMCsnVLLVq4NRfgkIu6YPo1IDR1djeM6B60EHAH~wQtJAA4hYFJF03hrG-UcBl4qhQ4BLR6wT1SQTeCxgLon7bTVLdYto6Sw978IZv-IJZYu-XlOvTRfe3qXO51eLNpgctEdpoGIxYPZcfcM4tRuGFf-m4Nj7iskOt7u6tHsfgayX7QyoJJ1r6u3rHxIuLTOm3bg-OGALlx5M7oSOE2VjyjlKvmOUcwsSI5mYNWl6fQtTHKbA__"
               alt=""
             />
             <Image
               boxSize="36.28px"
               borderRadius="8px"
-              src="src/assets/img1.png"
+              src="https://s3-alpha-sig.figma.com/img/38ec/6b93/a7d526b48db2e77631d5a51dfecbc1ba?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HUKlz8Or~A8ccNy0ZlZCq~zlWX-MO8vPjgfWZwyNq~KKYH~Nvp~PeSPabgVfZzg7l-LnxCsBVp7d64vEVsP9bx5~KnqQyZKXQ82io~gh57WbXW19idGA9kOc3bFGnduj1m9l2BzUTVqm6idQI-Y8-MG09C4uCl5AGvDmgu~IlHGljA9DZd1AZdvCpO98O9SW4AyMkG3nN~Swd~cgEPLsSouBWHHFtdddjDWC98-oLDIHcmhX~VV9l~fD4jYpr6MpzQO2Mr2pszAgeVzCgwHnK8dftHq4iOfi8mLBbPB-0YJbwpUTzOg-lY392h~nNXq2ajqmWeQoN0DwWA-3mtIraA__"
               alt=""
             />
             <Image
               boxSize="36.28px"
               borderRadius="8px"
-              src="src/assets/img1.png"
+              src="https://s3-alpha-sig.figma.com/img/e04c/fbd9/af5694e6e7cf12d73e8b82bb5fe16f7c?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ZEdzzRMfuM7Nlwx5ds5r~8LhV6iUtT3KkTUFYdm-Xmha6LeUBeykuc2IVax-rwPlBNMc6QEN8pDlPP2aoenBc-0V~nRcmLYtpBF1~hReTUI2ngVlcAmGbHAmSlfIzW4oQnmpmZCpjEYh0mBGT3BN7G1j2b8Zksa0ydzyfa4Iv5wO3y56IFgKxemB-ZYg4gCOsDzOptYHspQXzwJZzJBUaLfxZpZng5B-46BVD9LcQmUFCHp5B4fokFfifodFUWepo45XOQYE~1LIPOofuXK3rAwJmU0RM5dx~QhtX8u91OspI-Wf6wlVserlS5EwDZ8ANA1WaLSy90YsNoUb4XcZTA__"
               alt=""
             />
             <Image
